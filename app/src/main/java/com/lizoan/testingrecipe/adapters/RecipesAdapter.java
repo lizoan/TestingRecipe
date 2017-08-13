@@ -31,7 +31,7 @@ public class RecipesAdapter extends RecyclerView.Adapter<RecipesAdapter.ViewHold
     private Context mContext;
     private String cookTime, minutes, serveFor, persons;
 
-    public RecipesAdapter (Context context){
+    public RecipesAdapter(Context context) {
 
         this.recipeIds = new ArrayList<String>();
         this.recipeNames = new ArrayList<String>();
@@ -58,11 +58,9 @@ public class RecipesAdapter extends RecyclerView.Adapter<RecipesAdapter.ViewHold
 
     @Override
     public void onBindViewHolder(ViewHolder holder, final int position) {
-        holder.itemView.setOnClickListener(new View.OnClickListener()
-        {
+        holder.itemView.setOnClickListener(new View.OnClickListener() {
             @Override
-            public void onClick(View v)
-            {
+            public void onClick(View v) {
                 if (onTapListener != null)
                     onTapListener.onTapView(recipeIds.get(position), "");
 
@@ -71,8 +69,8 @@ public class RecipesAdapter extends RecyclerView.Adapter<RecipesAdapter.ViewHold
 
         // Set data to textview.
         holder.txtRecipeName.setText(recipeNames.get(position));
-        holder.txtTime.setText(cookTime+" "+cookTimes.get(position)+" "+minutes+", "+
-                serveFor+" "+servings.get(position)+" "+persons);
+        holder.txtTime.setText(cookTime + " " + cookTimes.get(position) + " " + minutes + ", " +
+                serveFor + " " + servings.get(position) + " " + persons);
 
         int image = mContext.getResources().getIdentifier(images.get(position), "drawable", mContext.getPackageName());
         Picasso.with(mContext)
@@ -85,13 +83,35 @@ public class RecipesAdapter extends RecyclerView.Adapter<RecipesAdapter.ViewHold
         return 0;
     }
 
-    public static class ViewHolder extends RecyclerView.ViewHolder
-    {
+    public void updateList(ArrayList<String> recipeIds, ArrayList<String> recipeNames, ArrayList<String> cookTimes, ArrayList<String> servings, ArrayList<String> images) {
+
+        this.recipeIds.clear();
+        this.recipeIds.addAll(recipeIds);
+
+        this.recipeNames.clear();
+        this.recipeNames.addAll(recipeNames);
+
+        this.cookTimes.clear();
+        this.cookTimes.addAll(cookTimes);
+
+        this.servings.clear();
+        this.servings.addAll(servings);
+
+        this.images.clear();
+        this.images.addAll(images);
+
+        this.notifyDataSetChanged();
+    }
+
+    public void setOnTapListener(OnTapListener onTapListener) {
+        this.onTapListener = onTapListener;
+    }
+
+    public static class ViewHolder extends RecyclerView.ViewHolder {
         TextView txtRecipeName, txtTime;
         RoundedImageView imgRecipe;
 
-        public ViewHolder(View v)
-        {
+        public ViewHolder(View v) {
             super(v);
             // Connect views object and views id on xml.
             txtRecipeName = v.findViewById(R.id.txtTitle);

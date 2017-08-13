@@ -25,6 +25,8 @@ dependencies {
         exclude group: 'com.android.support', module: 'support-annotations'
     })
 
+    // Important library to create material design. do not remove this.
+    compile project(':materialDesign')
     compile 'com.android.support:appcompat-v7:26.0.0'
     compile 'com.android.support:recyclerview-v7:26.0.0'
     compile 'com.android.support:support-v13:26.0.0'
@@ -37,7 +39,4 @@ dependencies {
     compile 'com.afollestad.material-dialogs:core:0.9.4.5'
     compile 'com.flaviofaria:kenburnsview:1.0.5'
     testCompile 'junit:junit:4.12'
-
-    // Important library to create material design. do not remove this.
-    compile project(':materialDesign')
 }
