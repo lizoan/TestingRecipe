@@ -31,4 +31,10 @@ dependencies {
 
     // Library to create ripple effect. work together with materialDesign library.
     compile 'com.github.traex.rippleeffect:library:1.2.2'
+
+    // Library to create rounded, circle, and any shape image.
+    compile 'com.makeramen:roundedimageview:1.4.0'
+
+    // Library load lazy images.
+    compile 'com.squareup.picasso:picasso:2.4.0'
 }

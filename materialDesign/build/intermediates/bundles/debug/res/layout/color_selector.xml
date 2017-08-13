@@ -23,8 +23,8 @@
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:orientation="vertical"
             android:background="#FFF"
+            android:orientation="vertical"
             android:padding="16dp" >
 
             <LinearLayout
@@ -37,9 +37,9 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginRight="8dp"
-                    android:textSize="17sp"
                     android:text="R"
-                    android:textColor="#4D4D4D" />
+                    android:textColor="#4D4D4D"
+                    android:textSize="17sp" />
 
                 <com.gc.materialdesign.views.Slider
                     android:id="@+id/red"
@@ -62,9 +62,9 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginRight="8dp"
-                    android:textSize="17sp"
                     android:text="G"
-                    android:textColor="#4D4D4D" />
+                    android:textColor="#4D4D4D"
+                    android:textSize="17sp" />
 
                 <com.gc.materialdesign.views.Slider
                     android:id="@+id/green"
@@ -87,9 +87,9 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginRight="8dp"
-                    android:textSize="17sp"
                     android:text="B"
-                    android:textColor="#4D4D4D" />
+                    android:textColor="#4D4D4D"
+                    android:textSize="17sp" />
 
                 <com.gc.materialdesign.views.Slider
                     android:id="@+id/blue"
