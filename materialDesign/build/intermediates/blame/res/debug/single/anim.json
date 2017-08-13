@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\Ivan\\AndroidStudioProjects\\TestingRecipe\\materialDesign\\build\\intermediates\\res\\merged\\debug\\anim\\snackbar_hide_animation.xml",
+        "source": "C:\\Users\\Ivan\\AndroidStudioProjects\\TestingRecipe\\materialDesign\\src\\main\\res\\anim\\snackbar_hide_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\AndroidStudioProjects\\TestingRecipe\\materialDesign\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_main_hide_amination.xml",
+        "source": "C:\\Users\\Ivan\\AndroidStudioProjects\\TestingRecipe\\materialDesign\\src\\main\\res\\anim\\dialog_main_hide_amination.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\AndroidStudioProjects\\TestingRecipe\\materialDesign\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_root_hide_amin.xml",
+        "source": "C:\\Users\\Ivan\\AndroidStudioProjects\\TestingRecipe\\materialDesign\\src\\main\\res\\anim\\dialog_root_hide_amin.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\AndroidStudioProjects\\TestingRecipe\\materialDesign\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_root_show_amin.xml",
+        "source": "C:\\Users\\Ivan\\AndroidStudioProjects\\TestingRecipe\\materialDesign\\src\\main\\res\\anim\\dialog_root_show_amin.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\AndroidStudioProjects\\TestingRecipe\\materialDesign\\build\\intermediates\\res\\merged\\debug\\anim\\snackbar_show_animation.xml",
+        "source": "C:\\Users\\Ivan\\AndroidStudioProjects\\TestingRecipe\\materialDesign\\src\\main\\res\\anim\\snackbar_show_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\AndroidStudioProjects\\TestingRecipe\\materialDesign\\build\\intermediates\\res\\merged\\debug\\anim\\progress_indeterminate_animation.xml",
+        "source": "C:\\Users\\Ivan\\AndroidStudioProjects\\TestingRecipe\\materialDesign\\src\\main\\res\\anim\\progress_indeterminate_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\AndroidStudioProjects\\TestingRecipe\\materialDesign\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_main_show_amination.xml",
+        "source": "C:\\Users\\Ivan\\AndroidStudioProjects\\TestingRecipe\\materialDesign\\src\\main\\res\\anim\\dialog_main_show_amination.xml"
+    }
+]

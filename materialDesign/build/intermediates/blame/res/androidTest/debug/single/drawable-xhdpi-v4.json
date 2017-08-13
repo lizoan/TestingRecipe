@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\Users\\Ivan\\AndroidStudioProjects\\TestingRecipe\\materialDesign\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\sprite_check.png",
+        "source": "C:\\Users\\Ivan\\AndroidStudioProjects\\TestingRecipe\\materialDesign\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\sprite_check.png"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\AndroidStudioProjects\\TestingRecipe\\materialDesign\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ic_reloj_max.png",
+        "source": "C:\\Users\\Ivan\\AndroidStudioProjects\\TestingRecipe\\materialDesign\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ic_reloj_max.png"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\AndroidStudioProjects\\TestingRecipe\\materialDesign\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\Ivan\\.android\\build-cache\\aaa693a116f3161bc82a82524b3d7ff169dc474d\\output\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\AndroidStudioProjects\\TestingRecipe\\materialDesign\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\Ivan\\.android\\build-cache\\aaa693a116f3161bc82a82524b3d7ff169dc474d\\output\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\AndroidStudioProjects\\TestingRecipe\\materialDesign\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Users\\Ivan\\.android\\build-cache\\aaa693a116f3161bc82a82524b3d7ff169dc474d\\output\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\AndroidStudioProjects\\TestingRecipe\\materialDesign\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\Ivan\\.android\\build-cache\\aaa693a116f3161bc82a82524b3d7ff169dc474d\\output\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\AndroidStudioProjects\\TestingRecipe\\materialDesign\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dialog_background.9.png",
+        "source": "C:\\Users\\Ivan\\AndroidStudioProjects\\TestingRecipe\\materialDesign\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dialog_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\AndroidStudioProjects\\TestingRecipe\\materialDesign\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\float_button_shadow1.png",
+        "source": "C:\\Users\\Ivan\\AndroidStudioProjects\\TestingRecipe\\materialDesign\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\float_button_shadow1.png"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\AndroidStudioProjects\\TestingRecipe\\materialDesign\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Ivan\\AndroidStudioProjects\\TestingRecipe\\materialDesign\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\AndroidStudioProjects\\TestingRecipe\\materialDesign\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\Ivan\\.android\\build-cache\\aaa693a116f3161bc82a82524b3d7ff169dc474d\\output\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\AndroidStudioProjects\\TestingRecipe\\materialDesign\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\float_button1_shadowp.png",
+        "source": "C:\\Users\\Ivan\\AndroidStudioProjects\\TestingRecipe\\materialDesign\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\float_button1_shadowp.png"
+    }
+]

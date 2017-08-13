@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\Ivan\\AndroidStudioProjects\\TestingRecipe\\materialDesign\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\sprite_check.png",
+        "source": "C:\\Users\\Ivan\\AndroidStudioProjects\\TestingRecipe\\materialDesign\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\sprite_check.png"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\AndroidStudioProjects\\TestingRecipe\\materialDesign\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\Ivan\\.android\\build-cache\\aaa693a116f3161bc82a82524b3d7ff169dc474d\\output\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\AndroidStudioProjects\\TestingRecipe\\materialDesign\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Ivan\\AndroidStudioProjects\\TestingRecipe\\materialDesign\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\AndroidStudioProjects\\TestingRecipe\\materialDesign\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\Ivan\\.android\\build-cache\\aaa693a116f3161bc82a82524b3d7ff169dc474d\\output\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\AndroidStudioProjects\\TestingRecipe\\materialDesign\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\Ivan\\.android\\build-cache\\aaa693a116f3161bc82a82524b3d7ff169dc474d\\output\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\AndroidStudioProjects\\TestingRecipe\\materialDesign\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\Ivan\\.android\\build-cache\\aaa693a116f3161bc82a82524b3d7ff169dc474d\\output\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\AndroidStudioProjects\\TestingRecipe\\materialDesign\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Users\\Ivan\\.android\\build-cache\\aaa693a116f3161bc82a82524b3d7ff169dc474d\\output\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    }
+]

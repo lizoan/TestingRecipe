@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "C:\\Users\\Ivan\\AndroidStudioProjects\\TestingRecipe\\materialDesign\\build\\intermediates\\res\\merged\\debug\\layout\\snackbar.xml",
+        "source": "C:\\Users\\Ivan\\AndroidStudioProjects\\TestingRecipe\\materialDesign\\src\\main\\res\\layout\\snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\AndroidStudioProjects\\TestingRecipe\\materialDesign\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Ivan\\.android\\build-cache\\aaa693a116f3161bc82a82524b3d7ff169dc474d\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\AndroidStudioProjects\\TestingRecipe\\materialDesign\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\Ivan\\.android\\build-cache\\51263f8f0152637fa0df516476e115e84ee73b20\\output\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\AndroidStudioProjects\\TestingRecipe\\materialDesign\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\Ivan\\.android\\build-cache\\aaa693a116f3161bc82a82524b3d7ff169dc474d\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\AndroidStudioProjects\\TestingRecipe\\materialDesign\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Ivan\\.android\\build-cache\\51263f8f0152637fa0df516476e115e84ee73b20\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\AndroidStudioProjects\\TestingRecipe\\materialDesign\\build\\intermediates\\res\\merged\\debug\\layout\\number_indicator_spinner.xml",
+        "source": "C:\\Users\\Ivan\\AndroidStudioProjects\\TestingRecipe\\materialDesign\\src\\main\\res\\layout\\number_indicator_spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\AndroidStudioProjects\\TestingRecipe\\materialDesign\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Ivan\\.android\\build-cache\\51263f8f0152637fa0df516476e115e84ee73b20\\output\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\AndroidStudioProjects\\TestingRecipe\\materialDesign\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Ivan\\.android\\build-cache\\aaa693a116f3161bc82a82524b3d7ff169dc474d\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\AndroidStudioProjects\\TestingRecipe\\materialDesign\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\Ivan\\.android\\build-cache\\51263f8f0152637fa0df516476e115e84ee73b20\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\AndroidStudioProjects\\TestingRecipe\\materialDesign\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\Ivan\\.android\\build-cache\\51263f8f0152637fa0df516476e115e84ee73b20\\output\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\AndroidStudioProjects\\TestingRecipe\\materialDesign\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\Ivan\\.android\\build-cache\\51263f8f0152637fa0df516476e115e84ee73b20\\output\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\AndroidStudioProjects\\TestingRecipe\\materialDesign\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Ivan\\.android\\build-cache\\aaa693a116f3161bc82a82524b3d7ff169dc474d\\output\\res\\layout\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\AndroidStudioProjects\\TestingRecipe\\materialDesign\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Ivan\\.android\\build-cache\\51263f8f0152637fa0df516476e115e84ee73b20\\output\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\AndroidStudioProjects\\TestingRecipe\\materialDesign\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\Ivan\\.android\\build-cache\\51263f8f0152637fa0df516476e115e84ee73b20\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\AndroidStudioProjects\\TestingRecipe\\materialDesign\\build\\intermediates\\res\\merged\\debug\\layout\\dialog.xml",
+        "source": "C:\\Users\\Ivan\\AndroidStudioProjects\\TestingRecipe\\materialDesign\\src\\main\\res\\layout\\dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\AndroidStudioProjects\\TestingRecipe\\materialDesign\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Ivan\\.android\\build-cache\\51263f8f0152637fa0df516476e115e84ee73b20\\output\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\AndroidStudioProjects\\TestingRecipe\\materialDesign\\build\\intermediates\\res\\merged\\debug\\layout\\color_selector.xml",
+        "source": "C:\\Users\\Ivan\\AndroidStudioProjects\\TestingRecipe\\materialDesign\\src\\main\\res\\layout\\color_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\AndroidStudioProjects\\TestingRecipe\\materialDesign\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Ivan\\.android\\build-cache\\aaa693a116f3161bc82a82524b3d7ff169dc474d\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\AndroidStudioProjects\\TestingRecipe\\materialDesign\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Ivan\\.android\\build-cache\\aaa693a116f3161bc82a82524b3d7ff169dc474d\\output\\res\\layout\\notification_template_icon_group.xml"
+    }
+]

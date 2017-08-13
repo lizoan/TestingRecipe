@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="title">20sp</dimen>
+    <dimen name="subhead">16sp</dimen>
+    <dimen name="divider_height">1dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="view_margin_left">110dp</dimen>
+</resources>

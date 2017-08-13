@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "C:\\Users\\Ivan\\AndroidStudioProjects\\TestingRecipe\\materialDesign\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\background_checkbox.xml",
+        "source": "C:\\Users\\Ivan\\AndroidStudioProjects\\TestingRecipe\\materialDesign\\build\\intermediates\\bundles\\debug\\res\\drawable\\background_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\AndroidStudioProjects\\TestingRecipe\\materialDesign\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Ivan\\.android\\build-cache\\aaa693a116f3161bc82a82524b3d7ff169dc474d\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\AndroidStudioProjects\\TestingRecipe\\materialDesign\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Ivan\\.android\\build-cache\\aaa693a116f3161bc82a82524b3d7ff169dc474d\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\AndroidStudioProjects\\TestingRecipe\\materialDesign\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\background_checkbox_check.xml",
+        "source": "C:\\Users\\Ivan\\AndroidStudioProjects\\TestingRecipe\\materialDesign\\build\\intermediates\\bundles\\debug\\res\\drawable\\background_checkbox_check.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\AndroidStudioProjects\\TestingRecipe\\materialDesign\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\background_switch_ball_uncheck.xml",
+        "source": "C:\\Users\\Ivan\\AndroidStudioProjects\\TestingRecipe\\materialDesign\\build\\intermediates\\bundles\\debug\\res\\drawable\\background_switch_ball_uncheck.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\AndroidStudioProjects\\TestingRecipe\\materialDesign\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\background_progress.xml",
+        "source": "C:\\Users\\Ivan\\AndroidStudioProjects\\TestingRecipe\\materialDesign\\build\\intermediates\\bundles\\debug\\res\\drawable\\background_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\AndroidStudioProjects\\TestingRecipe\\materialDesign\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\background_button_rectangle.xml",
+        "source": "C:\\Users\\Ivan\\AndroidStudioProjects\\TestingRecipe\\materialDesign\\build\\intermediates\\bundles\\debug\\res\\drawable\\background_button_rectangle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\AndroidStudioProjects\\TestingRecipe\\materialDesign\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\background_button_float.xml",
+        "source": "C:\\Users\\Ivan\\AndroidStudioProjects\\TestingRecipe\\materialDesign\\build\\intermediates\\bundles\\debug\\res\\drawable\\background_button_float.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\AndroidStudioProjects\\TestingRecipe\\materialDesign\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\background_checkbox_uncheck.xml",
+        "source": "C:\\Users\\Ivan\\AndroidStudioProjects\\TestingRecipe\\materialDesign\\build\\intermediates\\bundles\\debug\\res\\drawable\\background_checkbox_uncheck.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\AndroidStudioProjects\\TestingRecipe\\materialDesign\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\shadow_down.xml",
+        "source": "C:\\Users\\Ivan\\AndroidStudioProjects\\TestingRecipe\\materialDesign\\build\\intermediates\\bundles\\debug\\res\\drawable\\shadow_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\AndroidStudioProjects\\TestingRecipe\\materialDesign\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\shadow_right.xml",
+        "source": "C:\\Users\\Ivan\\AndroidStudioProjects\\TestingRecipe\\materialDesign\\build\\intermediates\\bundles\\debug\\res\\drawable\\shadow_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\AndroidStudioProjects\\TestingRecipe\\materialDesign\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Ivan\\.android\\build-cache\\aaa693a116f3161bc82a82524b3d7ff169dc474d\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\AndroidStudioProjects\\TestingRecipe\\materialDesign\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Ivan\\.android\\build-cache\\aaa693a116f3161bc82a82524b3d7ff169dc474d\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\AndroidStudioProjects\\TestingRecipe\\materialDesign\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\background_transparent.xml",
+        "source": "C:\\Users\\Ivan\\AndroidStudioProjects\\TestingRecipe\\materialDesign\\build\\intermediates\\bundles\\debug\\res\\drawable\\background_transparent.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\AndroidStudioProjects\\TestingRecipe\\materialDesign\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\background_button.9.png",
+        "source": "C:\\Users\\Ivan\\AndroidStudioProjects\\TestingRecipe\\materialDesign\\build\\intermediates\\bundles\\debug\\res\\drawable\\background_button.9.png"
+    }
+]
