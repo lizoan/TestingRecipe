@@ -26,7 +26,10 @@ public class MainActivity extends AppCompatActivity implements CategoriesFragmen
         // Set up the toolbar.
         Toolbar toolbar = findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
-        toolbar.setLogo(R.drawable.ic_logo);
+        //toolbar.setLogo(R.drawable.ic_logo);
+
+//        assert getSupportActionBar() != null;
+//        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
 
         // Handle item menu in toolbar.
         toolbar.setOnMenuItemClickListener(new Toolbar.OnMenuItemClickListener() {
